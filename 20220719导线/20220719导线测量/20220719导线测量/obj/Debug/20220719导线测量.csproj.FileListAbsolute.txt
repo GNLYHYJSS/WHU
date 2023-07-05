@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\bin\Debug\20220719导线测量.exe.config
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\bin\Debug\20220719导线测量.exe
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\bin\Debug\20220719导线测量.pdb
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\obj\Debug\20220719导线测量.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\obj\Debug\_20220719导线测量.Form1.resources
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\obj\Debug\_20220719导线测量.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\obj\Debug\20220719导线测量.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\obj\Debug\20220719导线测量.exe
+C:\Users\Administrator\Desktop\20220719导线测量\20220719导线测量\obj\Debug\20220719导线测量.pdb
